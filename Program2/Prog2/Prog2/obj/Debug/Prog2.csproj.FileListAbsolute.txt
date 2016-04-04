@@ -1,0 +1,13 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.About.resources
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.InsertAddress.resources
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.InsertLetter.resources
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.MainForm.resources
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\jefauc01\Desktop\Program2\Prog2\Prog2\obj\Debug\Prog2.pdb
